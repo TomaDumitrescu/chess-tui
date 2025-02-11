@@ -3,6 +3,7 @@
 A chess TUI implementation in rust 🦀
 </div>
 
+
 ![board](./examples/demo.gif)
 
 ![GitHub CI](https://github.com/thomas-mauran/chess-tui/actions/workflows/flow_test_build_push.yml/badge.svg)
